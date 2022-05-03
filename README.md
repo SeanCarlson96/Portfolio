@@ -1,3 +1,3 @@
 # Portfolio-Site
 
-This is my portfolio site
+This repository is dedicated to the code for my Developer Portfolio.
