@@ -625,7 +625,7 @@ h6 { font-size: 16px; }
 .aali_tm_down svg{
 	width: 35px !important;
 	height: 35px !important;
-	justify-content: center;
+	
 }
 .aali_tm_down svg #wheel{
 	animation: scroll ease 2s infinite;
