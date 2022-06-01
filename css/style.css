@@ -966,7 +966,7 @@ h6 { font-size: 16px; }
 	margin-right: -350px;
 }
 .aali_tm_skills .left{
-	width: 50%;
+	width: 25%;
 	padding-right: 63px;
 }
 .aali_tm_main_title{
@@ -1013,6 +1013,14 @@ h6 { font-size: 16px; }
 	padding-left: 63px;
 	position: relative;
 	top: -8px;
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+.aali_tm_skills .skills{
+	padding: 20px;
 }
 .dodo_progress{
 	width: 100%;
