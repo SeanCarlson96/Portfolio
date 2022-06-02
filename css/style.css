@@ -1022,6 +1022,10 @@ h6 { font-size: 16px; }
 .aali_tm_skills .skills{
 	padding: 20px;
 }
+.aali_tm_skills .gitLogo{
+	height: 96px;
+	width: auto;
+}
 .dodo_progress{
 	width: 100%;
 	height: auto;
