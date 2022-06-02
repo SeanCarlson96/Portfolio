@@ -1012,7 +1012,7 @@ h6 { font-size: 16px; }
 	width: 100%;
 	padding-left: 63px;
 	position: relative;
-	top: -8px;
+	top: 15px;
 	display: flex;
 	flex-wrap: wrap;
 	/*background-color: #ed844a;
@@ -1021,10 +1021,6 @@ h6 { font-size: 16px; }
 }
 .aali_tm_skills .skills{
 	padding: 20px;
-}
-.aali_tm_skills .gitLogo{
-	height: 96px;
-	width: auto;
 }
 .dodo_progress{
 	width: 100%;
