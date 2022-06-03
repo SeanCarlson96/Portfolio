@@ -1444,6 +1444,10 @@ h6 { font-size: 16px; }
 	text-decoration: none;
 	color: #000;
 }
+.aali_tm_modalbox .main_details .detailbox .share li a .svg{
+	width: 42px;
+	height: auto;
+}
 .aali_tm_modalbox .additional_images{
 	width: 100%;
 	height: auto;
