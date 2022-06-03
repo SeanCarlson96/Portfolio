@@ -1101,7 +1101,7 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 	text-align: center;
-	padding: 78px 0px 55px 0px;
+	padding: 78px 0px 48px 0px;
 }
 .aali_tm_portfolio .portfolio_filter ul{
 	margin: 0px;
@@ -1825,7 +1825,7 @@ h6 { font-size: 16px; }
 .aali_tm_resume .media[data-background-style="video"] .image{display: none;}
 .aali_tm_resume .media .video{
 	position: absolute;
-	top: 0px;
+	top: 20px;
 	bottom: 0px;
 	right: 0px;
 	left: 0px;
