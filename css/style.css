@@ -1812,10 +1812,16 @@ h6 { font-size: 16px; }
 	font-family: "Josefin Sans";
 	color: #15111e;
 }
+.aali_tm_resume .info .left{
+	width: auto;
+}
+.aali_tm_resume .info .right{
+	width: 115px;
+	text-align: right;
+}
 .aali_tm_resume .info .right span{
 	font-size: 15px;
 	letter-spacing: -.2px;
-	width: 50%;
 }
 .aali_tm_resume .media{
 	position: absolute;
@@ -2786,6 +2792,7 @@ input[type=number] {
 	.aali_tm_resume .content_inner > ul{margin-left: -60px;}
 	.aali_tm_resume .icon{width: 40px;height: 40px;}
 	.aali_tm_resume .icon .svg{width: 18px;height: 18px;}
+	.aali_tm_resume .info .right{text-align: right;width: 115px;}
 	.aali_tm_service .square_left{width: 270px;height: 190px;bottom: 60px;}
 	.aali_tm_resume .media .square{width: 100px;height: 100px;}
 	.aali_tm_testimonials ul li .text p{font-size: 23px;}
@@ -2886,6 +2893,7 @@ input[type=number] {
 	.aali_tm_resume .content_inner > ul > li:last-child{margin-bottom: 0px;}
 	.aali_tm_resume .icon{display: inline-block;position: relative;top: 0px;left: 0px;margin-bottom: 10px;}
 	.aali_tm_resume .info{flex-direction: column;align-items: baseline;}
+	.aali_tm_resume .info .right{text-align: left;}
 	.aali_tm_resume .list .list_inner{padding-left: 0px;}
 	.aali_tm_testimonials ul li .text p{font-size: 19px;}
 	.aali_tm_news{padding-top: 130px;padding-bottom: 135px;}
