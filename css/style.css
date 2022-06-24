@@ -1455,7 +1455,7 @@ h6 { font-size: 16px; }
 	float: left;
 }
 .aali_tm_modalbox .additional_images ul{
-	/*margin: 0px 0px 0px -30px;*/
+	margin: 0px 0px 0px -30px;
 	list-style-type: none;
 }
 .aali_tm_modalbox .additional_images ul li{
@@ -1463,6 +1463,7 @@ h6 { font-size: 16px; }
 	float: left;
 	width: 50%;
 	padding-left: 30px;
+	object-fit: contain;
 }
 .aali_tm_modalbox .additional_images ul li:nth-child(3n-2){
 	width: 100%;
