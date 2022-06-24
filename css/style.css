@@ -1463,7 +1463,7 @@ h6 { font-size: 16px; }
 	float: left;
 	width: 50%;
 	padding-left: 30px;
-	object-fit: contain;
+	object-fit: fill;
 }
 .aali_tm_modalbox .additional_images ul li:nth-child(3n-2){
 	width: 100%;
