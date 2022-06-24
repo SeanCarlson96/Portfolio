@@ -1474,6 +1474,10 @@ h6 { font-size: 16px; }
 	float: left;
 	position: relative;
 }
+.aali_tm_modalbox .additional_images ul li .list_inner video{
+	width: 100%;
+	height: auto;
+}
 .aali_tm_modalbox .additional_images ul li .my_image{
 	position: relative;
 }
