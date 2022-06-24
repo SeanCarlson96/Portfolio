@@ -1481,6 +1481,10 @@ h6 { font-size: 16px; }
 	opacity: 0;
 	min-width: 100%;
 }
+.aali_tm_modalbox .additional_images ul li .my_image > img:hover{
+	width: auto;
+	height: auto;
+}
 .aali_tm_modalbox .additional_images ul li .my_image .main{
 	position: absolute;
 	top: 0px;
