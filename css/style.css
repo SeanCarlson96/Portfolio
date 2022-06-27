@@ -1466,11 +1466,11 @@ h6 { font-size: 16px; }
 
 .pichold {
 	display: flex;
+	align-items: center;
 }
 
 .slidepic {
 	height: 500px;
-	align-self: center;
 }
 
 /* Next & previous buttons */
