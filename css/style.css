@@ -1462,6 +1462,10 @@ h6 { font-size: 16px; }
   display: none;
 }
 
+.slidepic {
+	background-size: contain;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
