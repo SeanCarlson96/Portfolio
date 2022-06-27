@@ -1464,6 +1464,10 @@ h6 { font-size: 16px; }
   display: none;
 }
 
+.pichold {
+	display: flex;
+}
+
 .slidepic {
 	height: 500px;
 	align-self: center;
