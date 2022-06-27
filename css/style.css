@@ -1456,7 +1456,7 @@ h6 { font-size: 16px; }
   position: relative;
   margin: auto;
   background-color: #999;
-  display: flex;
+  /*display: flex;*/
 }
 
 /* Hide the images by default */
