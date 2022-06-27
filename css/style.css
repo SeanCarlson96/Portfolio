@@ -1465,7 +1465,7 @@ h6 { font-size: 16px; }
 .slidepic {
 	height: 400px;
 	width: auto;
-	align-self: center;
+	text-align: center;
 }
 
 /* Next & previous buttons */
