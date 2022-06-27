@@ -1463,8 +1463,8 @@ h6 { font-size: 16px; }
 }
 
 .slidepic {
-	background-size: contain;
 	height: 300px;
+	width: auto;
 }
 
 /* Next & previous buttons */
