@@ -1465,8 +1465,9 @@ h6 { font-size: 16px; }
 
 .pichold {
 	display: flex;
-	align-items: center;
 	justify-content: center;
+	align-items: center;
+  	text-align: center;
 }
 
 .slidepic {
