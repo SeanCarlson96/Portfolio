@@ -1456,6 +1456,7 @@ h6 { font-size: 16px; }
   position: relative;
   margin: auto;
   background-color: #999;
+  display: flex;
 }
 
 /* Hide the images by default */
@@ -1464,8 +1465,8 @@ h6 { font-size: 16px; }
 }
 
 .slidepic {
-	height: 100%;
-
+	height: 500px;
+	align-self: center;
 }
 
 /* Next & previous buttons */
