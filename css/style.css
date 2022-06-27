@@ -1471,6 +1471,7 @@ h6 { font-size: 16px; }
 
 .slidepic {
 	height: 500px;
+	align-self: center;
 }
 
 /* Next & previous buttons */
