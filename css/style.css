@@ -1455,6 +1455,7 @@ h6 { font-size: 16px; }
   max-width: 1000px;
   position: relative;
   margin: auto;
+  background-color: #999;
 }
 
 /* Hide the images by default */
