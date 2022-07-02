@@ -4,7 +4,7 @@
   <h1 align="center">Personal Portfolio</h1>
 
   <p align="center">
-    Palindrome Checker will test your input, and glow green if your input is a palindrome.
+    A personal portfolio site to showcase my work.
     <br />
     <a href="https://seancarlson96.github.io/Palindrome-Checker/" target="_blank"><strong>Live Site »</strong></a><br />
     <br />
@@ -17,9 +17,9 @@
 
 Site Features:
 * An about section 
-* Type "racecar" or "tacocat" for some surprising animations
-* The card will glow green if the input is a palindrome, and red if it is not
-* Fully responsive design for all devices
+* T
+* T
+* F
 
 ## Built With
 
