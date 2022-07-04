@@ -6,7 +6,7 @@
   <p align="center">
     A personal portfolio site to showcase my work.
     <br />
-    <a href="https://seancarlson96.github.io/Palindrome-Checker/" target="_blank"><strong>Live Site »</strong></a><br />
+    <a href="https://carlsean.com/" target="_blank"><strong>Live Site »</strong></a><br />
     <br />
     <br />
   </p>
