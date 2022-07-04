@@ -6,20 +6,21 @@
   <p align="center">
     A personal portfolio site to showcase my work.
     <br />
-    <a href="https://seancarlson96.github.io/Palindrome-Checker/" target="_blank"><strong>Live Site »</strong></a><br />
+    <a href="https://carlsean.com/" target="_blank"><strong>Live Site »</strong></a><br />
     <br />
     <br />
   </p>
-  <img src="README.screenshots/PCSS1.png" alt="">
+  <img src="README.screenshots/PSS1.png" alt="">
 </div>
 
 ## About The Project
 
 Site Features:
-* An about section 
-* T
-* T
-* F
+* Indroduction, About, Skills, Portfolio, Resume, and Contact sections
+* Modal descriptions boxes for each selected project in the portfolio
+* Magic Cursor and reactive animations
+* Links to my Github, LinkedIn, YouTube, and Resume
+* PHP Contact Form
 
 ## Built With
 
@@ -28,16 +29,18 @@ Site Features:
 * CSS
 * Jekyll
 * Ruby
+* PHP
 
 ## Screenshots
 
 <div display="flex">
-  <img src="README.screenshots/" alt="" height="500">
-  <img src="README.screenshots/PCSS2.png" alt="" height="500">
-  <img src="README.screenshots/PCSS3.png" alt="">
-  <img src="README.screenshots/PCSScar.png" alt="" height="500">
-  <img src="README.screenshots/PCSScat.png" alt="" height="500">
-  <img src="README.screenshots/PCSS6.png" alt="">
+  <img src="README.screenshots/PSS1.png" alt="">
+  <img src="README.screenshots/PSS2.png" alt="">
+  <img src="README.screenshots/PSS3.png" alt="">
+  <img src="README.screenshots/PSS4.png" alt="">
+  <img src="README.screenshots/PSS5.png" alt="">
+  <img src="README.screenshots/PSS6.png" alt="">
+  <img src="README.screenshots/PSS7.png" alt="">
 </div>
 
 <!-- CONTACT -->
