@@ -17,7 +17,6 @@ function showSlides(n) {
   let dots = document.getElementsByClassName("dot");
   
   if (n > 6) {slideIndex = 1}
-  console.log(6)
   if (n < 1) {slideIndex = 6}
   for (i = 0; i < 6; i++) {
     slides[i].style.display = "none";
