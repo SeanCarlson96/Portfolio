@@ -3027,5 +3027,6 @@ input[type=number] {
 @media not all and (min-resolution:.001dpcm) { @supports (-webkit-appearance:none) and (display:flow-root) { 
 	.aali_tm_resume .media .video{
 		position: absolute;
+		object-fit: cover;
 	}
 } }
