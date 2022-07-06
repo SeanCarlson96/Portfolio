@@ -1947,6 +1947,7 @@ h6 { font-size: 16px; }
 	bottom: 0px;
 	right: 0px;
 	left: 0px;
+	object-fit: cover;
 }
 .aali_tm_resume .media .image{
 	position: absolute;
