@@ -3026,8 +3026,8 @@ input[type=number] {
 
 @media not all and (min-resolution:.001dpcm) { @supports (-webkit-appearance:none) and (display:flow-root) { 
 	.aali_tm_resume .media .video{
-		opacity: 0.5;
-		height: 400px;
-		width: 700px;
+		height: auto;
+		z-index: -9999999999999999999999999999999;
+		opacity: 0.2;
 	}
 } }
