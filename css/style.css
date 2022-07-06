@@ -3023,3 +3023,10 @@ input[type=number] {
 	.aali_tm_modalbox .news_popup_informations .details .title{font-size: 22px;}
 	.aali_tm_modalbox .service_popup_informations .main_title h3{font-size: 22px;}
 }
+/*safari
+_::-webkit-full-page-media, _:future, :root .safari_only {
+
+	object-fit: cover;
+  
+  }
+  */
