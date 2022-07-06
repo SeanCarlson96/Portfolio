@@ -1947,7 +1947,6 @@ h6 { font-size: 16px; }
 	bottom: 0px;
 	right: 0px;
 	left: 0px;
-	object-fit: cover;
 }
 .aali_tm_resume .media .image{
 	position: absolute;
@@ -3024,3 +3023,14 @@ input[type=number] {
 	.aali_tm_modalbox .news_popup_informations .details .title{font-size: 22px;}
 	.aali_tm_modalbox .service_popup_informations .main_title h3{font-size: 22px;}
 }
+
+@media not all and (min-resolution:.001dpcm) { @supports (-webkit-appearance:none) and (display:flow-root) { 
+	.aali_tm_resume .media .video{
+		position: absolute;
+		top: 20px;
+		bottom: 0px;
+		right: 0px;
+		left: 0px;
+		height: 300px;
+	}
+} }
