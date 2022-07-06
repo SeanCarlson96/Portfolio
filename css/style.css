@@ -3031,6 +3031,6 @@ input[type=number] {
 		bottom: 0px;
 		right: 0px;
 		left: 0px;
-		z-index:-10000;
+		z-index:-100000000000000;
 	}
 } }
