@@ -3028,6 +3028,6 @@ input[type=number] {
 	.aali_tm_resume .media .video{
 		height: auto;
 		z-index: -9999999999999999999999999999999;
-		opacity: 0.12;
+		opacity: 0.0;
 	}
 } }
