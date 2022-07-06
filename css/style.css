@@ -3027,10 +3027,5 @@ input[type=number] {
 @media not all and (min-resolution:.001dpcm) { @supports (-webkit-appearance:none) and (display:flow-root) { 
 	.aali_tm_resume .media .video{
 		position: absolute;
-		top: 20px;
-		bottom: 0px;
-		right: 0px;
-		left: 0px;
-		height: 300px;
 	}
 } }
