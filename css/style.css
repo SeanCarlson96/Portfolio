@@ -1450,6 +1450,10 @@ h6 { font-size: 16px; }
 	height: auto;
 }
 
+.aali_tm_modalbox .main_details .detailbox .newshare li img{
+	height: 42px;
+}
+
 /* Slideshow container */
 .slideshow-container {
   box-sizing:border-box;
